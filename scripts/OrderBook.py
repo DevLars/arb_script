@@ -1,7 +1,4 @@
 class OrderBook(object):
-
-    def setUpdateId(self, id):
-        self.id = id
-
-    def getUpdateId(self):
-        return self.id
+    id = None
+    asks = None
+    bids = None
