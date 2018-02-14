@@ -6,7 +6,7 @@ import hashlib
 
 class BinanceClient(object):
     BINANCE_BASE_URL = "https://api.binance.com"
-    API_KEY = "Eat4TaqKS0pSMDPAjFQleRR1kTRTWWvc75M4yFyUOj7R6iiWiQB5rhyzWbNMTOsy"
+    API_KEY = "dwKMRWH6q3vJ51wHKLGtoYZuud9MP5PLdaGKXgnnjiuDuu7cgPyHiOr69nhDcGX8"
     ORDER_ENDPOINT = "/api/v3/order"
     LATEST_PRICE_ENDPOINT = "/api/v3/ticker/price"
     ORDER_BOOK_ENDPOINT = "/api/v1/depth"
